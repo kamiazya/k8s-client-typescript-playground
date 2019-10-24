@@ -5,5 +5,11 @@
   "repository": "https://github.com/kamiazya/k8s-client-typescript-playground.git",
   "author": "kamiazya <yuki@kamiazya.tech>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "@kubernetes/client-node": "^0.11.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  }
 }
