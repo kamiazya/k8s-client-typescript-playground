@@ -1,0 +1,9 @@
+{
+  "name": "k8s-client-typescript-playground",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/kamiazya/k8s-client-typescript-playground.git",
+  "author": "kamiazya <yuki@kamiazya.tech>",
+  "license": "MIT",
+  "private": true
+}
